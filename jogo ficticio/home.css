@@ -41,6 +41,11 @@ a:hover {
   border: 1px solid green;
 }
 
+.logo {
+  color: aqua;
+  text-shadow: 5px 5px 5px ;
+  font-size: 18;
+}
 .navegacao {
   display: flex;
   width: 75%;
